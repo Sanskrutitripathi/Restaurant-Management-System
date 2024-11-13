@@ -22,10 +22,6 @@ A simple Java-based command-line system for managing restaurant orders, includin
 - **Beverages**
 - **Desserts**
 
-## Future Enhancements
-
-- Add discounts, database support, and a GUI.
-
 ## Requirements
 
 - Java JDK 8+
